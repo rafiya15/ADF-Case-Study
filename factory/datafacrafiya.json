@@ -1,0 +1,9 @@
+{
+	"name": "datafacrafiya",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "636ce1cb-5f45-4cb9-b62b-04b4e86bfc2a",
+		"tenantId": "76a2ae5a-9f00-4f6b-95ed-5d33d77c4d61"
+	}
+}
